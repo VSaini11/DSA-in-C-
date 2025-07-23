@@ -1,4 +1,4 @@
-# Arrays
+# Arrays (without STL)
 ### array_1.cpp - Input Output Basic
 Basic array program that demonstrates:
 - how add element in an array.
